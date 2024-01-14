@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1617551192 source:c:\users\talex\onedrive\Área de trabalho\ciência da computação\matérias anp\osa\trabalho2p2\main.cpp
+	"Netflix.h"
+	"Arquivos.h"
+	<iostream>
+	<string>
+
+1617553106 c:\users\talex\onedrive\Área de trabalho\ciência da computação\matérias anp\osa\trabalho2p2\include\netflix.h
+	"Arquivos.h"
+	<string>
+	<fstream>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1617553106 source:c:\users\talex\onedrive\Área de trabalho\ciência da computação\matérias anp\osa\trabalho2p2\src\netflix.cpp
+	"Netflix.h"
+	<string>
+	<fstream>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<map>
+
+1617551848 c:\users\talex\onedrive\Área de trabalho\ciência da computação\matérias anp\osa\trabalho2p2\include\arquivos.h
+	"Netflix.h"
+	<string>
+	<iostream>
+
+1617551851 source:c:\users\talex\onedrive\Área de trabalho\ciência da computação\matérias anp\osa\trabalho2p2\src\arquivos.cpp
+	"Arquivos.h"
+	"Netflix.h"
+	<string>
+	<iostream>
+	<map>
+	<vector>
+	<string.h>
+	<cstddef>
+	<stdio.h>
+
